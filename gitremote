@@ -1,2 +1,50 @@
 ## 本地-github
 - 创建一个
+- git remote add origin https:www.sunxiaodan.github.git
+- git remote rm 名字
+- git push orgin master
+
+247  git init
+  254  git add .
+  255  git commit -m 'init'
+  256  ls
+  257  clear
+  258  git checkout -b dev
+  259  vi index.css
+  260  git add .
+  261  git commit -m 'dev red'
+  262  clear
+  263  git checkout master
+  264  git add .
+  265  git commit -m 'master green'
+  266  git log
+  267  clear
+  268  git merge dev
+  269  git status
+  270  git add .
+  271  git commit -m'merge'
+  272  git log
+16:17:07
+ㄣ 就这么拽 2017/11/11 16:17:07
+## 本地->github
+- 先有github账号
+## 本地提交
+- README.md
+
+- 创建一个.gitignore
+- git不会上传空文件夹添加.gitkeep在空文件夹内
+
+## 关联远程仓库
+```
+git remote add origin 地址
+```
+
+## 删除关联
+```
+git remote rm 名字
+```
+
+## 推送代码
+```
+git push origin master
+```
