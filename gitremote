@@ -55,4 +55,11 @@ git push origin master
 ##
 - 项目创建一个ghpage分枝
 
+## issue问题
+- 可以提交对项目，自己的信息
+## fork是在当前项目下克隆一份，如果代码更新，不会随之更新
+## 拉去本地
+- git clone 项目地址，项目别名
+## collabrators 添加贡献者，被添加这有最大权限
+
 
