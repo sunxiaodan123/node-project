@@ -48,3 +48,11 @@ git remote rm 名字
 ```
 git push origin master
 ```
+
+阿力去最新代码
+- pull=git fetch+merge
+
+##
+- 项目创建一个ghpage分枝
+
+
